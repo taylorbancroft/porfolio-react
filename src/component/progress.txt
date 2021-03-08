@@ -1,0 +1,4 @@
+3/8/2020
+*added animate.css, bootstrap.css, bootstrap.css.map, flexslider.css to css folder*
+*made nav bar*
+*made footer*
