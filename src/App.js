@@ -1,13 +1,15 @@
 import React, { Component} from 'react';
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
+import Navbar from "./component/navbar";
+
 
 
 class App extends Component{
   render() {
   return(
     <div className="App">
-      <h2>Portfolio Project</h2>
+      <Navbar />
     </div>
   );
   }
