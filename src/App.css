@@ -7,6 +7,11 @@
 body{
   font-family: "Shippori Mincho B1"
 }
+h1 {
+  font-family: "Spartan";
+  color:black;
+  font-size: 100% !important;
+}
 /********************** NAVBAR **************************/
 .logo{
   width:9rem;
@@ -30,4 +35,31 @@ nav ul li {
 }
 .navbar-nav > li > a:active{
   border-top: .1em solid #DA6357;
+}
+/********************** HEADER **************************/
+.header-wrapper {
+  font-size: 300%;
+  font-family: "Shippori Mincho B1"
+}
+.portrait img{
+  width: 100%;
+}
+.main-info {
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: var(--coral);
+  margin-top: 3rem;
+}
+.btn-main-offer {
+  font-size: 2rem;
+  font-family: "Shippori Mincho B1";
+  color: var(--coral);
+  border: .25rem solid var(--coral);
+  border-radius: .5rem;
+  padding: .5rem 1rem 1rem 1rem;
+  margin-top: .575em;
+  text-transform: lowercase;
 }
