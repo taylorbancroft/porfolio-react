@@ -2,15 +2,29 @@
 :root{
   --navColor: #f8f9fa;
   --coral: #da6357;
+  --green: #99BF9D;
 }
 
 body{
-  font-family: "Shippori Mincho B1"
+  font-family: "Shippori Mincho B1";
+  background-color: var(--navColor) !important;
 }
 h1 {
   font-family: "Spartan";
   color:black;
-  font-size: 100% !important;
+  margin-left: 8%;
+
+}
+html {
+  scroll-behavior: smooth;
+}
+p{
+  font-size:1.75rem;
+  font-family: "Shippori Mincho B1";
+}
+h3{
+  font-size: 2rem !important;
+  margin-top: 3rem !important;
 }
 /********************** NAVBAR **************************/
 .logo{
@@ -38,12 +52,14 @@ nav ul li {
 }
 /********************** HEADER **************************/
 .header-wrapper {
+  margin-top: 5rem;
   font-size: 300%;
   font-family: "Shippori Mincho B1"
 }
 .portrait img{
   width: 100%;
 }
+
 .main-info {
   display: flex;
   flex-direction:column;
@@ -63,3 +79,87 @@ nav ul li {
   margin-top: .575em;
   text-transform: lowercase;
 }
+.btn-main-offer:hover {
+  color:var(--navColor);
+  background-color: var(--coral);
+  text-decoration:none;
+}
+
+/********************** ABOUT **************************/
+.about-section h1 {
+  margin-top:10rem;
+  font-size: 3.5rem !important;
+  text-transform: lowercase;
+  text-align: left;
+}
+.about-section {
+  align-items: center;
+  text-align:justify;
+  margin-top:20rem !important;
+  font-size: 2rem;
+  margin:0;
+}
+.aboutMe{
+  padding:0 !important;
+  margin:0;
+  width:100%;
+}
+.about-section a{
+  text-decoration: none;
+  color:black;
+}
+.about-section a:hover{
+  color: var(--coral);
+  text-decoration: none;
+}
+.about-section img{
+  margin-top: 5rem !important;
+  margin:auto;
+  display:block;
+}
+/********************** EDUCATION **************************/
+.education-section h1 {
+  margin-top:20rem;
+  font-size: 3.5rem !important;
+  text-transform: lowercase;
+}
+.education-section {
+  text-align: left;
+  padding: 0 5rem;
+}
+.education-section h3{
+  color:var(--coral);
+  font-family: "Shippori Mincho B1";
+}
+.education-section p{
+  text-align: left;
+  padding-left: 0 !important;
+}
+/********************** EDUCATION **************************/
+.experience-section{
+  margin-top: 20rem;
+  margin: 5rem;
+
+}
+.experience-section h1{
+  margin-top:20rem;
+  font-size: 3.5rem !important;
+  text-transform: lowercase;
+}
+.experience-section h3{
+  font-family: "Shippori Mincho B1";
+  color: var(--green);
+}
+/********************** CERTIFICATIONS **************************/
+.certification-section{
+  margin-top: 20rem;
+}
+
+.certification-section h3{
+  font-family: "Shippori Mincho B1";
+  color:var(--coral);
+  font-size: 7rem !important;
+  padding: 1rem;
+  margin-left: auto;
+}
+
