@@ -4,7 +4,7 @@ const certifications = () => {
     return (
         <div>
             <div className="certification-section animate__animated animate__fadeIn" id="certifications">
-                <h1>Certifications</h1>
+            <h1>Certifications</h1>
                 <div className="row">
                     <div className="col-md-2">
 

@@ -165,15 +165,64 @@ nav ul li {
     font-family: "Shippori Mincho B1";
     color: var(--coral);
   }
+  .projects-section a{
+    text-decoration: none;
+    color:grey;
+  }
+  .projects-section a:hover{
+    color: var(--coral);
+    text-decoration: none;
+  }
 /********************** CERTIFICATIONS **************************/
-.certification-section{
-  margin-top: 20rem;
+.certification-section h1 {
+  margin-top:20rem;
+  font-size: 3.5rem !important;
+  text-transform: lowercase;
 }
 
 .certification-section h3{
   font-family: "Shippori Mincho B1";
   color:var(--coral);
 }
-.certification-section p {
+
+/********************** RESUME/CV **************************/
+.resume-section h1 {
+  margin-top:20rem;
+  font-size: 3.5rem !important;
+  text-transform: lowercase;
+}
+.resume-section h3{
+  color: var(--green);
+  font-family: "Shippori Mincho B1";
+}
+.resume-section a{
+  text-decoration: none;
+  color:black;
+}
+.resume-section a:hover{
+  color: var(--coral);
+  text-decoration: none;
 }
 
+/********************** FOOTER **************************/
+.footer-section{
+  margin-top: 10rem;
+  background-color:lightgrey;
+  color:white;
+}
+.footer-section h3{
+  color: white;
+  font-family: "Shippori Mincho B1";
+}
+.footer-section a{
+  text-decoration: none;
+  color:white;
+  font-size: 1.25rem;
+}
+.footer-section a:hover{
+  color:var(--coral);
+  text-decoration: none;
+}
+.footer-section .btn-main-offer:hover{
+  color:white;
+}

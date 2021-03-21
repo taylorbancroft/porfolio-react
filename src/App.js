@@ -10,6 +10,7 @@ import Projects from "./component/projects";
 import Experience from "./component/experience";
 import Certifications from "./component/certifications";
 import Resume from "./component/resume";
+import Footer from "./component/footer";
 
 class App extends Component{
   render() {
@@ -23,6 +24,7 @@ class App extends Component{
       <Experience />
       <Certifications />
       <Resume />
+      <Footer />
     </div>
   );
   }
