@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/porfolio-react/static/css/main.06942a51.chunk.css",
+    "main.js": "/porfolio-react/static/js/main.55eb578c.chunk.js",
+    "main.js.map": "/porfolio-react/static/js/main.55eb578c.chunk.js.map",
+    "runtime-main.js": "/porfolio-react/static/js/runtime-main.6e23a27a.js",
+    "runtime-main.js.map": "/porfolio-react/static/js/runtime-main.6e23a27a.js.map",
+    "static/css/2.d302b58a.chunk.css": "/porfolio-react/static/css/2.d302b58a.chunk.css",
+    "static/js/2.fd48ff02.chunk.js": "/porfolio-react/static/js/2.fd48ff02.chunk.js",
+    "static/js/2.fd48ff02.chunk.js.map": "/porfolio-react/static/js/2.fd48ff02.chunk.js.map",
+    "static/js/3.86770e0f.chunk.js": "/porfolio-react/static/js/3.86770e0f.chunk.js",
+    "static/js/3.86770e0f.chunk.js.map": "/porfolio-react/static/js/3.86770e0f.chunk.js.map",
+    "index.html": "/porfolio-react/index.html",
+    "static/css/2.d302b58a.chunk.css.map": "/porfolio-react/static/css/2.d302b58a.chunk.css.map",
+    "static/css/main.06942a51.chunk.css.map": "/porfolio-react/static/css/main.06942a51.chunk.css.map",
+    "static/js/2.fd48ff02.chunk.js.LICENSE.txt": "/porfolio-react/static/js/2.fd48ff02.chunk.js.LICENSE.txt",
+    "static/media/Current_Resume.34bbe8c7.pdf": "/porfolio-react/static/media/Current_Resume.34bbe8c7.pdf",
+    "static/media/Curriculum Vita.085f27cf.pdf": "/porfolio-react/static/media/Curriculum Vita.085f27cf.pdf",
+    "static/media/logo.ec760772.png": "/porfolio-react/static/media/logo.ec760772.png",
+    "static/media/portrait.c4a66adf.png": "/porfolio-react/static/media/portrait.c4a66adf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e23a27a.js",
+    "static/css/2.d302b58a.chunk.css",
+    "static/js/2.fd48ff02.chunk.js",
+    "static/css/main.06942a51.chunk.css",
+    "static/js/main.55eb578c.chunk.js"
+  ]
+}
