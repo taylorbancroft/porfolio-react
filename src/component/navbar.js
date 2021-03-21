@@ -23,16 +23,16 @@ const navbar = () => {
         <a className="nav-link" href="#education">Education</a>
       </li>
       <li className="nav-item">
+        <a className="nav-link" href="#projects">Projects</a>
+      </li>
+      <li className="nav-item">
         <a className="nav-link" href="#experience">Experience</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="#">Certifications</a>
+        <a className="nav-link" href="#certifications">Certifications</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="#">Projects</a>
-      </li>
-      <li className="nav-item">
-        <a className="nav-link" href="#">Resume/CV</a>
+        <a className="nav-link" href="#resume">Resume/CV</a>
       </li>
     </ul>
   </div>

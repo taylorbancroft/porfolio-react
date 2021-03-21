@@ -4,7 +4,10 @@ const about = () => {
     return (
             <div className="container about-section" id="aboutMe">
             <div className="row">
-            <div className="aboutMe col-md-8 animate__animated animate__fadeIn animate__slower">
+            <div className="col-md-2">
+
+            </div>
+            <div className="aboutMe col-md-6 animate__animated animate__fadeIn animate__slower">
             <h1>bio</h1>
                 <div className="col-md animate__animated animate__fadeIn animate__slower">            
                 <p>Taylor is a web developer with a range of
@@ -19,11 +22,14 @@ const about = () => {
             enrolled in a training program for Amazon Web Services
             to strengthen her back end cloud computing skills. She 
             believes that anyone can learn to code, and has made it a 
-            goal to blog about her learning process at <a href="hackanegg.com">hackanegg.com</a></p>
+            goal to blog about her learning process at <a href="https://www.hackanegg.com">hackanegg.com</a></p>
             </div>
         </div>
-        <div className ="col-md-4 animate__animated animate__rotateInDownLeft">
+        <div className ="col-md-2 animate__animated animate__rotateInDownLeft">
             <img src={Icon} />
+        </div>
+        <div className="col-md-2">
+
         </div>
         </div>
     </div>

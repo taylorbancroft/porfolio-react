@@ -6,8 +6,10 @@ import Navbar from "./component/navbar";
 import Header from "./component/header";
 import About from "./component/about";
 import Education from "./component/education";
+import Projects from "./component/projects";
 import Experience from "./component/experience";
 import Certifications from "./component/certifications";
+import Resume from "./component/resume";
 
 class App extends Component{
   render() {
@@ -17,8 +19,10 @@ class App extends Component{
       <Header />
       <About />
       <Education />
+      <Projects />
       <Experience />
       <Certifications />
+      <Resume />
     </div>
   );
   }
