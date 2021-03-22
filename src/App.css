@@ -156,6 +156,9 @@ nav ul li {
 }
 
 /********************** PROJECTS **************************/
+.projects-section{
+  margin: 5rem;
+}
 .projects-section h1{
     margin-top:20rem;
     font-size: 3.5rem !important;
@@ -174,6 +177,9 @@ nav ul li {
     text-decoration: none;
   }
 /********************** CERTIFICATIONS **************************/
+.certification-section{
+  margin: 5rem;
+}
 .certification-section h1 {
   margin-top:20rem;
   font-size: 3.5rem !important;
@@ -186,6 +192,9 @@ nav ul li {
 }
 
 /********************** RESUME/CV **************************/
+.resume-section{
+  margin: 5rem;
+}
 .resume-section h1 {
   margin-top:20rem;
   font-size: 3.5rem !important;
@@ -223,6 +232,6 @@ nav ul li {
   color:var(--coral);
   text-decoration: none;
 }
-.footer-section .btn-main-offer:hover{
+.footer-section a.btn-main-offer:hover{
   color:white;
 }
