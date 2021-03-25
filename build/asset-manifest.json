@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.27d28dd4.chunk.css",
-    "main.js": "./static/js/main.28c2c242.chunk.js",
-    "main.js.map": "./static/js/main.28c2c242.chunk.js.map",
+    "main.js": "./static/js/main.67b3d384.chunk.js",
+    "main.js.map": "./static/js/main.67b3d384.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.252bf7e6.js",
     "runtime-main.js.map": "./static/js/runtime-main.252bf7e6.js.map",
     "static/css/2.d302b58a.chunk.css": "./static/css/2.d302b58a.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.d302b58a.chunk.css.map": "./static/css/2.d302b58a.chunk.css.map",
     "static/css/main.27d28dd4.chunk.css.map": "./static/css/main.27d28dd4.chunk.css.map",
     "static/js/2.fd48ff02.chunk.js.LICENSE.txt": "./static/js/2.fd48ff02.chunk.js.LICENSE.txt",
-    "static/media/Current_Resume.34bbe8c7.pdf": "./static/media/Current_Resume.34bbe8c7.pdf",
+    "static/media/Current_Resume.f2f068d2.pdf": "./static/media/Current_Resume.f2f068d2.pdf",
     "static/media/Curriculum Vita.085f27cf.pdf": "./static/media/Curriculum Vita.085f27cf.pdf",
     "static/media/logo.ec760772.png": "./static/media/logo.ec760772.png",
     "static/media/portrait.c4a66adf.png": "./static/media/portrait.c4a66adf.png"
@@ -24,6 +24,6 @@
     "static/css/2.d302b58a.chunk.css",
     "static/js/2.fd48ff02.chunk.js",
     "static/css/main.27d28dd4.chunk.css",
-    "static/js/main.28c2c242.chunk.js"
+    "static/js/main.67b3d384.chunk.js"
   ]
 }
