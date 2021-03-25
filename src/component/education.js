@@ -13,7 +13,7 @@ const education = () => {
                     <p>GPA: 4.0</p>
                     <p>Major: Computer Science</p>
                     <p>Teacher's Assistant for Website Production</p>
-                    <p>Relevant Coursework: Relevant Coursework: Object Oriented Design and Programming, Principles of Computer Science, Web Application Programming</p>
+                    <p>Relevant Coursework: Object Oriented Design and Programming, Principles of Computer Science, Web Application Programming</p>
                 </div>
                 <div className="col-md-4 ncstate">
                     <h3>North Carolina State University</h3>
