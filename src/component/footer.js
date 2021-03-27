@@ -21,7 +21,7 @@ const footer = () => {
             <a href="https://github.com/taylorbancroft">GitHub</a>
           </li>
           <li>
-            <a href="https://www.http://hackanegg.com/">My Blog</a>
+            <a href="http://hackanegg.com/">My Blog</a>
           </li>
           <li>
             <a href="https://www.instagram.com/allamericanregex/">Instagram</a>
